@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: defalut
 paginate: true
 footer: 
 ---
@@ -91,3 +92,85 @@ Das meint Wikipedia[^1]:
 * Gewährleistung der Qualität
 * Verbesserung der Kommunikation innerhalb und außerhalb des Projekts
 * Automatisierung durch Werkzeuge
+
+---
+
+# Wasserfallmodell
+
+---
+
+# Wasserfall
+
+TBD: Bild
+
+---
+
+# Wasserfall Probleme
+
+TBD: Bild
+
+---
+
+# Einge Geschichte unglücklicher Missverständnisse
+
+* Winston W. Royce (1929-1995), Informatiker und Direktor bei Lockheed Software Technology Center
+* Paper *Managing the Development of Large Software Systems*, 1970
+Beschreibt den fehlerbehafteten und risikoreichen Prozess der Software-Entwicklung in den 1960ern  
+> I believe in this concept, but the implementation described above is risky and invites failure
+
+---
+
+# Wasserfall Ursprung
+
+* Der Prozess wurde als solcher nie von Royce propagiert  
+* Erstmals genannt im Paper von von Bell & Thayer, *Software requirements: Are they really a problem?*, 1976
+
+> The same top-down approach to a series of requirements statements is explained, without the specialized military jargon, in an excellent paper by Royce ;he introduced the concept of the “waterfall” of development activities. In this approach software is developed in the disciplined sequence of activities shown in Figure I.
+
+* Aber 1986 im Department of Defense Standard 2167A (DOD-STD-2167A) als quasi  Entwicklungsstandard für externe Entwicklungspartner eingeführt
+
+---
+
+# Missverständnisse (1)
+
+- In den Ausführungen von Royce finden sich Konzepte, die sich heute in Agilen Methoden und DevOps-Ansätzen wiederfinden.
+
+- DevOps: Entwicklung und Betrieb in einem Team 
+> There is first an analysis step, followed second by a coding step as depicted in Figure 1. This sort 	of very simple implementation concept is in fact all that is required if the effort is sufficiently 	small and if the final product is to be operated by those who built it
+
+- Scrum: Iterative Entwicklung („Do it twice“)
+> If the computer program in question is being developed for the first time, arrange matters so that the version finally delivered to the customer for operational deployment is actually the second version…
+
+---
+
+# Missverständnisse (2)
+
+- Scrum: Involve the customer
+> …also the kind of development effort for which most customers are happy to pay, since both 	steps [Anm. Analyse u. Codierung] involve genuinely creative work which directly contributes to the usefulness of the final product.
+
+> It is important to involve the customer in a formal way so that he has committed himself at 	earlier points before final delivery.
+
+> …points following requirements definition where the insight, judgment, and commitment of the 	customer carl bolster the development effort.
+
+<!-- 
+# Plan, Control and Monitor Testing
+> TBD
+-->
+
+---
+
+# Empfohlene Reviews durch Royce
+
+- Royce beschreibt in seinem Paper drei Reviews, die sich im »Wasserfallmodell« jedoch nicht finden
+
+* **Preliminary Software Review** 	
+    * Zeitpunkt: Nach vorläufigem Software Design 
+
+* **Critical Software Review**
+    * Zeitpunkt: Nach dem Programm Design 
+
+* **Final Software Acceptance Review**
+    * Zeitpunkt: Nach dem Testen 
+
+---
+
