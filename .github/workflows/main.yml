@@ -1,0 +1,23 @@
+# Created: 2020/10/16 00:01:37
+# Last modified: 2020/10/16 00:01:53
+
+name: Publish
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      # Checks-out your repository under $GITHUB_WORKSPACE
+      - uses: actions/checkout@v2
+
+      - name: Run marp-action setup
+        id: marp-action
+        uses: aheil/marp-action@v1.0.0
+        with:
+          src-dir: 'slides'

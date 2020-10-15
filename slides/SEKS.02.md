@@ -174,3 +174,8 @@ Beschreibt den fehlerbehafteten und risikoreichen Prozess der Software-Entwicklu
 
 ---
 
+# Zusamenfassung 
+
+* Wasserfall war ursprünglich kein empfohlenes Vorgehensmodell, sondern beschrieb den unzureichenden Stand der Technik in den 1960ern
+* Durch eine Verkettung vin unglücklichen Ereignissen etablierte sich dieses Modell als de-facto Standard in der Software-Entwicklung 
+* Im originalen Paper von Royce finden sich bereits viele Empfehlungen und Beobachtungen die erst ab den 2000ern in agilen Vorgehensmodellen und der DevOps-Bewegung Anklang fanden
