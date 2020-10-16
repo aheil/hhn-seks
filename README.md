@@ -1,4 +1,4 @@
-![Publish](https://github.com/aheil/hhn-os/workflows/Publish/badge.svg?branch=main)
+![Publish](https://github.com/aheil/hhn-seks/workflows/Publish/badge.svg?branch=main)
 
 # Advanced Software Engineering (Software Engineering komplexer Systeme)
 
