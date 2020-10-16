@@ -6,11 +6,13 @@ footer:
 ---
 
 # Software Engineering komplexer Systeme
-## Vorgehensmodelle 
+## Vorgehensmodelle - Wasserfall
 
 Prof. Dr.-Ing. Andreas Heil
 
-![h:32 CC 4.0](cc.svg)![h:32 CC 4.0](by.svg) Dieses Werk ist lizensiert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
+![h:32 CC 4.0](../img/cc.svg)![h:32 CC 4.0](../img/by.svg) Dieses Werk ist lizensiert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
+
+v.1.0.0
 
 ---
 
@@ -18,7 +20,6 @@ Prof. Dr.-Ing. Andreas Heil
 
 * Warum Vorgehensmodelle 
 * Wasserfallmodell
-* Scrum
 
 ---
 
@@ -101,13 +102,25 @@ Das meint Wikipedia[^1]:
 
 # Wasserfall
 
-TBD: Bild
+![w:800](../img/seks.05.wasserfall.png)
 
 ---
 
-# Wasserfall Probleme
+# Beispiele für Probleme Wasserfall Probleme
 
-TBD: Bild
+Beispielproblem: 
+* In den Tests wird das erste Mal ersichtlich, dass eine Anforderung falsch verstanden wurde...
+Konsequenz:
+* Kosten und Entwicklungszeit verdoppeln sich...
+Weiteres Problem:
+* Keine Steuerung von Risikofaktoren
+
+
+---
+
+# Gravierende Rückschritte durch späte Probleme
+
+![w:800](../img/seks.05.probleme.png)
 
 ---
 
