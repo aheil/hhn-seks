@@ -8,7 +8,12 @@ This course is being taught as a part of the Bachelor Software Engineering at He
 
 ## Lecture Slides 
 
-* TBA
+* 🇩🇪 [Komplexität](../slides/seks.01.de.pdf)
+* 🇩🇪 [Wie entstehen komplexe Systeme](../slides/seks.02.de.pdf)
+* 🇩🇪 [Projektmanagement - Ursprung](../slides/seks.03.de.pdf)
+* 🇩🇪 [Projektmanagement - Grundlagen](../slides/seks.04.de.pdf)
+* 🇩🇪 [Vorgehensmodelle - Wasserfall](../slides/seks.05.de.pdf)
+* 🇩🇪 [Vorgehensmodelle - Scrum](../slides/seks.06.de.pdf)
 
 ## Lab and Home Assignments 
 
