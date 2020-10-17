@@ -1,3 +1,4 @@
+
 ![Publish](https://github.com/aheil/hhn-seks/workflows/Publish/badge.svg?branch=main)
 
 # Advanced Software Engineering (Software Engineering komplexer Systeme)
@@ -13,7 +14,7 @@ This course is being taught as a part of the Bachelor Software Engineering at He
 * 🇩🇪 [Projektmanagement - Ursprung](slides/seks.03.de.pdf)
 * 🇩🇪 [Projektmanagement - Grundlagen](slides/seks.04.de.pdf)
 * 🇩🇪 [Vorgehensmodelle - Wasserfall](slides/seks.05.de.pdf)
-* 🇩🇪 [Vorgehensmodelle - Scrum](slides/SEKS.06.de.pdf)
+* 🇩🇪 [Vorgehensmodelle - Scrum](slides/seks.06.de.pdf)
 
 ## Lab and Home Assignments 
 
