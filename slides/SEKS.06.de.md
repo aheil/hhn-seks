@@ -174,7 +174,7 @@ The New New Product Development Game, Hirotaka Takeuchi and Ikujiro Nonaka, Harv
 
 # Schätzen 
 
-* Schätzen ist eine der scwersten Aufgaben im Prozess 
+* Schätzen ist eine der schwersten Aufgaben im Prozess 
 * Unterscheidung 
     * Schätzen von Komplexität
     * Schätzen von Aufwand/Dauer
