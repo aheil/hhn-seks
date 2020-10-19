@@ -12,7 +12,7 @@ Prof. Dr.-Ing. Andreas Heil
 
 ![h:32 CC 4.0](../img/cc.svg)![h:32 CC 4.0](../img/by.svg) Dieses Werk ist lizensiert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
 
-v.1.0.0
+v.1.0.1
 
 ---
 
@@ -58,7 +58,7 @@ v.1.0.0
 
 ---
 
-# Was ist ein Vorgnsmodell?
+# Was ist ein Vorgehensmodell?
 
 Das meint Wikipedia[^1]:
 
@@ -106,14 +106,14 @@ Das meint Wikipedia[^1]:
 
 ---
 
-# Beispiele für Probleme Wasserfall Probleme
+# Beispiele für Wasserfall Probleme
 
-Beispielproblem: 
-* In den Tests wird das erste Mal ersichtlich, dass eine Anforderung falsch verstanden wurde...
-Konsequenz:
-* Kosten und Entwicklungszeit verdoppeln sich...
-Weiteres Problem:
-* Keine Steuerung von Risikofaktoren
+* Beispiel 
+    * In den Tests wird das erste Mal ersichtlich, dass eine Anforderung falsch verstanden wurde...
+* Konsequenz
+    * Kosten und Entwicklungszeit verdoppeln sich...
+* Weiteres Problem
+    * Keine Steuerung von Risikofaktoren
 
 
 ---
