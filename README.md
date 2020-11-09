@@ -20,7 +20,11 @@ This course is being taught as a part of the Bachelor Software Engineering at He
 
 ## Lab and Home Assignments 
 
-* TBA
+## Lab 1: Project Management
+
+### Lab 2: Software Architecture 
+
+* 🏋️‍♀️ [C4 Model](labs/02_swarch/c4_exercise.md)
 
 ## License
 
