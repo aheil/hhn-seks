@@ -3,7 +3,7 @@
 
 # Advanced Software Engineering (Software Engineering komplexer Systeme)
 
-This course is being taught as a part of the Bachelor Software Engineering at Heilbronn University fpr Applied Sciences in Germany. 
+This course is being taught as a part of the Bachelor Software Engineering at Heilbronn University for Applied Sciences in Germany. 
 
 [Go to the official Website ⏭](https://www.hs-heilbronn.de/seks)
 
@@ -15,6 +15,8 @@ This course is being taught as a part of the Bachelor Software Engineering at He
 * 🇩🇪 [Projektmanagement - Grundlagen](slides/seks.04.de.pdf)
 * 🇩🇪 [Vorgehensmodelle - Wasserfall](slides/seks.05.de.pdf)
 * 🇩🇪 [Vorgehensmodelle - Scrum](slides/seks.06.de.pdf)
+* 🇩🇪 [C4 Modell](slides/seks.07.de.pdf)
+* 🇩🇪 [Qualitätssicherung](slides/seks.08.de.pdf)
 
 ## Lab and Home Assignments 
 
