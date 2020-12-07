@@ -17,6 +17,8 @@ This course is being taught as a part of the Bachelor Software Engineering at He
 * 🇩🇪 [Vorgehensmodelle - Scrum](slides/seks.06.de.pdf)
 * 🇩🇪 [C4 Modell](slides/seks.07.de.pdf)
 * 🇩🇪 [Qualitätssicherung](slides/seks.08.de.pdf)
+* 🇩🇪 [Metriken](slides/seks.09.de.pdf)
+* 🇩🇪 [V-Modell XT](slides/seks.10.de.pdf)
 
 ## Lab and Home Assignments 
 
