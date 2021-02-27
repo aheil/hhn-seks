@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header ul.nav {
+    list-style: none;
+    padding: 0;
+    background: #f4f4f4;
+    border-radius: 5px;
+    border: 1px solid #e0e0e0;
+    width: 270px;
+    height: 408px;
+}
+
+header ul.nav li {
+    width: 270px;
+    float: left;
+    border-bottom: 1px solid #e0e0e0;
+    border-right: none;
+    height: 40px
+}
+
+header ul.nav li:first-child a {
+    border-radius: 5px 5px 0px 0px
+}
+
+header ul.nav li:last-child a {
+    border-radius: 0px 0px 5px 5px
+}
+
+header ul.nav a {
+    line-height: 1;
+    font-size: 14px;
+    color: #676767;
+    display: block;
+    text-align: center;
+    padding-top: 14px;
+    height: 34px
+}
+
+header ul.nav li:last-child {
+    border-bottom: none;
+}
+
+@media print,
+screen and (max-width: 480px) {
+    header ul.nav {
+        width: 99%
+    }
+
+    header ul.nav li {
+        width: 100%
+    }
+}
