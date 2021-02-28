@@ -1,7 +1,16 @@
+![Publish](https://github.com/aheil/hhn-devops/workflows/Publish/badge.svg?branch=main)
 
+# Software Engineering komplexer Systeme
+
+Dieser Kurs ist Teil des Bachelor Studiengangs Software Engineering (SEB) und Bachelor Angewandte Informatik (AIB) an der Hochschule Heilbronn.
+
+Dies ist das Repository der Kursinformationen. Die Seite mit den Kursinformationen ist auf den [GitHub Pages dieses Repositories](https://aheil.github.io/hhn-seks/) verfügbar.
+
+[Offizielle Seite der Hochschule Heilbronn ⏭](https://www.hs-heilbronn.de/seks)
 
 ![Publish](https://github.com/aheil/hhn-seks/workflows/Publish/badge.svg?branch=main)
 
+<!-- 
 # Advanced Software Engineering (Software Engineering komplexer Systeme)
 
 This course is being taught as a part of the Bachelor Software Engineering at Heilbronn University for Applied Sciences in Germany. 
@@ -34,3 +43,4 @@ This course is being taught as a part of the Bachelor Software Engineering at He
 
 All the code in this repository is made available under the MIT license unless otherwise noted.
 
+-->
