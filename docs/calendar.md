@@ -2,6 +2,6 @@
 
 | Einheit # | Thema | Termine |
 | --- | --- | --- |
-| 1 | Begrüßung | | 
+| 1 | Prolog, Einführung in Komplexität | | 
 
 
