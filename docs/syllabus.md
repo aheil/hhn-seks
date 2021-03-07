@@ -7,7 +7,7 @@ Vorlesung: 1 Vorlesungseinheit / Woche, 90 Min. / Einheit (SEB)
 
 ## Voraussetzungen (SEB)
 
-• G5 Gundlagen des Software Engineering 1
+• G5 Grundlagen des Software Engineering 1
 • G5 Grundlagen des Software Engineering 2
 
 • G2.3 Betriebssysteme (262007)  
@@ -30,9 +30,9 @@ im Sinne einer systemischen Sichtweise den Softwareprozess in
 vielfältigen Dimensionen versuchen abzubilden und gerecht zu
 werden.
 
-Themen, die in der Vorlesung behandelt werden können:
+Themen, die in der Vorlesung behandelt werden (wird bei Bedarf angepasst):
 
-Ü Komplexität allgemein und in der Software-Entwicklung im
+* Komplexität allgemein und in der Software-Entwicklung im
 speziellen
 * Zusammenhang zwischen technischer und organisatorischer
 Komplexität in der Software-Entwicklung
