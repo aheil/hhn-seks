@@ -7,13 +7,10 @@ Vorlesung: 1 Vorlesungseinheit / Woche, 90 Min. / Einheit (SEB)
 
 ## Voraussetzungen (SEB)
 
-• G5 Grundlagen des Software Engineering 1
-• G5 Grundlagen des Software Engineering 2
+Folgende Vorlesungen sollten Sie erfolgreich besucht haben:
 
-• G2.3 Betriebssysteme (262007)  
-• H2.3 Grundlagen verteilter Systeme (262055)  
-• H3.2 Developer-Tools des SE (262051)  
-• H3.4 Software Engineering komplexer Systeme (262061)  
+* G5 Grundlagen des Software Engineering 1
+* G5 Grundlagen des Software Engineering 2
 
 ## Beschreibung 
 
@@ -73,7 +70,7 @@ Die Note ergibt sich aus insgesamt 100 Punkten:
 | --- | --- | 
 | Hausaufgaben | 20% |
 | Kurzreferat | 30% |
-|Klausur | 50 % | 
+| Klausur | 50 % | 
 
 ## Abgaben
 

@@ -4,10 +4,14 @@
 
 Erstellen Sie hierfür einen individuellen Projektplan für Ihr anstehendes Praxissemester.
 
-Nutzen Sie hierzu das frei verfügbare Programm GanttProject.
+Nutzen Sie hierzu das frei verfügbare Programm [GanttProject](https://www.ganttproject.biz/).
 
 * Webseite: https://www.ganttproject.biz/
 * Download: https://www.ganttproject.biz/download 
+
+## Hinweis
+
+Bearbeiten Sie die Aufgabenstellung in 2-er oder 3-er Gruppen.
 
 ## Aufgaben
 
@@ -16,7 +20,7 @@ Bevor Sie mit der Erstellung des Projektplans beginnen schauen Sie sich folgende
 * [Meilensteine vs. Aktivität (Teil 1)](https://www.youtube.com/watch?v=ZXtaQN0NZZo)
 * [Meilensteine vs. Aktivität (Teil 2)](https://www.youtube.com/watch?v=BrwrA7hp9BU)
 
-Legen Sie mind. für sich „Ressource“ an, um diese später zur Kapazitätsplanung zu verwenden. Legen Sie bei Bedarf zusätzliche Ressourcen an, die für Ihr Vorhaben relevant sind.
+Legen Sie für sich „Ressourcen“ an, um diese später zur Kapazitätsplanung zu verwenden. Legen Sie bei Bedarf zusätzliche Ressourcen an, die für Ihr Vorhaben relevant sind.
 
 ![](img/resources_chart.png)
 
@@ -32,5 +36,8 @@ Vorgänger (Predecessors) als auch darauffolgenden Phasen als auch die Ressource
 * Stellen Sie Ihre Projektdatei in der entsprechenden ILIAS-Abgabe bereit. 
 * Aus Ihrem Plan sollte die Zuordnung der Ressource(n) erkennbar sein. 
 * Ihr Plan sollte das realistische Startdatum Ihres Praxissemesters enthalten. Sollten Sie das Praxissemester bereits absolviert haben, planen Sie bitte so, als wäre Ihr Praxissemester im kommenden Semester. 
-* Ihr Plan sollt es ermöglichen, dass die Startzeit des Projektes verändert wird um und ein neues Enddatum bereitstellen. 
-* Bewertet werden neben der technischen Umsetzung des Plans die Vollständigkeit und Nachvollziehbarkeit Ihres Plans. 
+* Ihr gemeinsamer Plan resultiert in einer kleinen Feier die Sie organisieren, sobald alle Gruppenteilnehmer mit dem Praxissemester fertig sind. 
+* Planen Sie eventuell Vorbereitungsaktivitäten für Ihre Feier ebenfalls. 
+* Ihr Plan sollt es ermöglichen, dass die Startzeit des Antritts der praktischen Tätigkeit im Unternehmen eines einzelnen Team verändert wird und ein neues Enddatum des Gesamtprojekts (= Ihrer Feier) berechnet wird. 
+* Beachten Sie ob Sie Aktivitäten parallel oder sequentiell durchführen können oder müssen. 
+* Bewertet werden neben der technischen Umsetzung des Plans und den o.g. Kriterien auch die Vollständigkeit und Nachvollziehbarkeit Ihres Plans. 
