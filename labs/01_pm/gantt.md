@@ -11,7 +11,7 @@ Nutzen Sie hierzu das frei verfügbare Programm [GanttProject](https://www.gantt
 
 ## Hinweis
 
-Bearbeiten Sie die Aufgabenstellung in 2-er oder 3-er Gruppen.
+Die Gruppengröße für die Bearbeitung der Aufgabenstellung entnehmen Sie bitte der Aufgabenstellung in ILIAS.
 
 ## Aufgaben
 
