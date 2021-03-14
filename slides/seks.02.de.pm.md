@@ -12,21 +12,120 @@ Prof. Dr.-Ing. Andreas Heil
 
 ![h:32 CC 4.0](../img/cc.svg)![h:32 CC 4.0](../img/by.svg) Dieses Werk ist lizensiert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
 
-v.1.0.0
+v.1.2.0
 
 ---
 
-# Inhalt
-
-* Einführung
-* Projektziele
-* Projektkommunikation u. -strukturen
-* Praxisbeispiel
+# Teil 1: Projektmanagement Ursprung
 
 ---
 
-# Einführung
+# Lernziel dieser Einheit
 
+* Ursprung und Aufbau des Projektmanagements **verstehen**
+
+---
+
+# Geschichte des Projektmanagements
+
+![bg right ](../img/seks.02.pm_history.png)
+
+Erste Elemente des Projektmanagements
+
+---
+
+# Geschichte des Projektmanagements (Forts.)
+
+* Bau der Pyramiden
+    * Dokumentation des Arbeitslohns, Baufortschritt, Krisenmanagement bei frühzeitigem Ableben des Pharaos
+* Bau der Chinesischen Maue
+    * Management von Projektmitarbeiter  
+* Bau römischer Wehranlagen
+    * Projektkoordination aufgrund verteilter Durchführung, Steuerung bei Angriffen und Zerstörung durch feindliche Kräfte 
+
+    **Ziel: Komplexität durch Systematik zu reduzieren**
+
+---
+
+<style>
+img[alt~="history"] {
+  position: absolute;
+  right: 50pt;
+  top: 200pt;
+}
+</style>
+
+# Historisches Projektbeispiel: Seeweg nach Indien finden
+
+![history w:400](../img/seks.02.ship.jpg)
+
+* Herausforderung: Projekterfolg feststellen
+* Auftraggeberin: Isabella von Kastilien
+* Projektstart: 3. August 1492
+* Projektende: 15. März 1493
+* Projektziel: Seeweg nach Indien für die<br />spanische Krone finden
+* Anzahl Mitarbeiter: 120
+* **Projekterfolg: Projektziel verfehlt**
+
+---
+
+# Historisches Projektbeispiel: Bau der großen Mauer
+
+![history w:400](../img/seks.02.wall.jpg)
+
+* Herausforderung: Projektdauer
+* Auftraggeber: Kaiser Qin Shi Huangdi<br />(259 - 210 v.Chr.)
+* Projektstart: 220v. Chr. 
+* Projektlaufzeit: ca. 1700 Jahre
+* Projektziel: Abwehr rivalisierender Armeen,<br />Abwehr der Mongolen
+* Anzahl Mitarbeiter: mehrere Millionen
+* **Projekterfolg: partiell erreicht**
+
+---
+
+
+# Historisches Projektbeispiel: Cheops-Pyramide – Gizeh
+
+![history w:400](../img/seks.02.gizeh.jpg)
+
+* Die Herausforderung: Kundenanforderung
+* Auftraggeber: König Cheops (2620 - 2580 v. Chr.)
+* Projektstart: 2620 v. Chr. 
+* Projektlaufzeit: ca. 20 Jahre
+* Projektziel: Totenkult, Reise ins Jenseits absichern
+* Anzahl Mitarbeiter: ca. 3000
+* **Projekterfolg: unbekannt**
+
+---
+
+# Historisches Projektbeispiel: Genesis
+
+![history w:400](../img/seks.02.genesis.jpg)
+
+* Herausforderung: Projektgröße
+* Auftraggeber: Unbekannt
+* Projektstart: Ex Nihilo
+* Projektlaufzeit: 7 Tage
+* Projektziel: Unbekannt
+* Anzahl Mitarbeiter: 1
+* **Projekterfolg:<br />In Hinsicht auf das Projektziel unklar** 
+
+---
+
+# Zeitverlauf des modernen Projektmanagements
+
+![center](../img/seks.02.pm_origins.de.png)
+
+---
+
+# Teil 2: Projektmanagement Grundlagen
+
+---
+
+# Lernziele dieser Einheit
+
+* Sie lernen einige der elementare Bausteine im Projektmanagement kennen, die helfen Komplexität zu reduzieren
+ 
 ---
 
 # Was ist eigentlich ein Projekt?
@@ -365,6 +464,13 @@ Verpflichtend: Bei Aufwänden > 5 Personentage
 
 ---
 
+# Acknoledgmenets
+
+* Historische Projektbeispiele entstammen einer Präsentation unbekannter Herkunft
+
+---
+
 # Bildnachweise 
 
 [1]  Projektmanagement Studie 2008, GPM Deutsche Gesellschaft für Projektmanagement e.V. und PA Consulting Group 
+
