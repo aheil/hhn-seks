@@ -16,7 +16,11 @@ v.1.0.1
 
 ---
 
-# Lernziele
+# Teil 1: Komplexität
+
+---
+
+# Lernziele dieser Einheit
 
 * Den Unterschied zwischen kompliziert und komplex **kennen lernen**
 
@@ -94,10 +98,107 @@ Ein System ist eine **Gesamtheit von Komponenten**, die so aufeinander bezogen o
 
 # Zusammenfassung
 
-Heute kennen gelernt: 
-
 * Unterschied zwischen kompliziert und komplex
 * Was ein System ausmacht und welche Arten von Systemen es gibt
+
+---
+
+# Teil 2: Entstehung von Komplexität 
+
+---
+
+# Wie entstehen komplexe Systeme?
+
+![](../img/seks.01.idea.de.png)
+
+---
+
+# Lernziele dieser Einheit
+
+* Sie **verstehen** welche Ursachen es für organisatorische als auch technische Komplexität geben kann
+* Sie **lernen kennen** welche Maßnahmen es gibt, um diesen Arten von Komplexität entgegen zu wirken
+
+---
+
+# Merkmale organisatorischer Komplexität 
+
+* Anzahl Team Mitglieder
+* Beziehungen zwischen Teammitgliedern
+* Anzahl der Teams
+* Interne vs. externe Teammitglieder
+* Geographische Verteilung der Teammitglieder
+* Interkulturelle Unterschiede
+
+---
+
+# Merkmale organisatorischer Komplexität (Forts.)
+
+* Reputation des Projekts in der Organisation
+* Anzahl Zulieferer und externer Firmen
+* Kundenprojekt vs. Standard Software
+* Beziehung zum Kunden
+* Anzahl der Stakeholder
+* Beziehung zu anderen Projekten
+
+---
+
+# Merkmale technischer Komplexität 
+
+* Art, Anzahl und Eindeutigkeit der Anforderungen
+* Anzahl Komponenten und Schnittstellen
+* Benutzer Interface
+* Menge und Art der Daten
+* Code Basis (Lines of Code)
+
+---
+
+# Merkmale technischer Komplexität (Forts.)
+
+* Brownfield vs. Greenfield Projekt
+* Legacy Code
+* Bekannte vs. neue Technologien
+* Anzahl Programmiersprachen
+* Verteilte Systeme
+* Parallelität im Code
+* Security
+
+---
+
+# Anmerkung zu organisatorischen Systemen
+
+In organisatorischen Systemen existieren **offizielle Beziehungen**
+* Projektmanager gibt Inhalte dem Team vor
+* Teamleiter ist disziplinarisch Vorgesetzter
+* Entwicklungsleiter ist fachlicher Entscheidungsträger
+* Projektleiter gibt Termine vor
+* Entwickler entscheiden über Code
+
+---
+
+# Anmerkung zu organisatorischen Systemen (Forts.)
+
+Und es gibt **inoffizielle Beziehungen**
+
+* Teamleiter ist mit einem Teammitglied im gleichen Fußballverein
+* Entwicklungsleiter „kann nicht“ mit Entwickler A
+* Entwickler B ist bester Freund von Entwickler C
+* Externer Berater ist Bruder des Schwagers von Entwickler D
+
+---
+
+# Wie also Komplexität in den Griff bekommen?
+
+**Organisatorische** Komplexität reduzieren
+* Projektmanagement
+* Vorgehensmodelle
+* Schätzen und Schätztechniken
+* Anforderungsanalyse
+
+**Technische** Komplexität reduzieren
+* Software Architekturen
+* Code Metriken
+* Testen
+* Clean Code
 
 ---
 
