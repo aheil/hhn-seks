@@ -12,7 +12,7 @@ Prof. Dr.-Ing. Andreas Heil
 
 ![h:32 CC 4.0](../img/cc.svg)![h:32 CC 4.0](../img/by.svg) Dieses Werk ist lizensiert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
 
-v.1.0.2
+v.1.0.3
 
 ---
 
@@ -190,5 +190,5 @@ Beschreibt den fehlerbehafteten und risikoreichen Prozess der Software-Entwicklu
 # Zusammenfassung 
 
 * Wasserfall war ursprünglich kein empfohlenes Vorgehensmodell, sondern beschrieb den unzureichenden Stand der Technik in den 1960ern
-* Durch eine Verkettung vin unglücklichen Ereignissen etablierte sich dieses Modell als de-facto Standard in der Software-Entwicklung 
+* Durch eine Verkettung von unglücklichen Ereignissen etablierte sich dieses Modell als de-facto Standard in der Software-Entwicklung 
 * Im originalen Paper von Royce finden sich bereits viele Empfehlungen und Beobachtungen die erst ab den 2000ern in agilen Vorgehensmodellen und der DevOps-Bewegung Anklang fanden
