@@ -6,4 +6,4 @@
 | 2 | Einführung Projektmanagement | -- | 
 | 3 | Vorgehensmodelle | Lab01: Projektplan | 
 | 4 | Metriken | | 
-| 4| Qualitätssicherung | |
+| 5 | Qualitätssicherung | |
