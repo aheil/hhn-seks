@@ -8,4 +8,4 @@
 | 3 | 🇩🇪 [Vorgehensmodelle: Wasserfall](https://github.com/aheil/hhn-seks/raw/main/slides/seks.03.de.wasserfall.pdf) |
 | 3 | 🇩🇪 [Vorgehensmodelle: Scrum](https://github.com/aheil/hhn-seks/raw/main/slides/seks.03.de.scrum.pdf) |
 | 4 | 🇩🇪 [Metriken](https://github.com/aheil/hhn-seks/raw/main/slides/seks.04.de.metriken.pdf) |
-| 5 | 🇩🇪 [Qualitätssicherung](https://github.com/aheil/hhn-seks/raw/main/slides/seks.05.qualitatssicherung.pdf) |
+| 5 | 🇩🇪 [Qualitätssicherung](https://github.com/aheil/hhn-seks/raw/main/slides/seks.05.de.qualitaetssicherung.pdf) |
