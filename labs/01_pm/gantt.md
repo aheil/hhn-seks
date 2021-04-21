@@ -1,6 +1,6 @@
 # Lab 01: Projektplan
 
-[GANTT-Diagramme](https://en.wikipedia.org/wiki/Gantt_chart) sind eine übersichtliche Art und Weise einen Projektverlauf darzustellen. Ziel dieser Übung ist es, sich anhand eines echten Werkzeuges die grundlegenden Aspekte eines Projektplans kennen zu erarbeiten. Hierzu soll die, in der Vorlesung vorgestellte Darstellung eines Gantt-Diagramms genutzt werden.
+[GANTT-Diagramme](https://en.wikipedia.org/wiki/Gantt_chart) sind eine übersichtliche Art und Weise einen Projektverlauf darzustellen. Ziel dieser Übung ist es, sich anhand eines echten Werkzeuges die grundlegenden Aspekte eines Projektplans kennen zu lernen. Hierzu soll die, in der Vorlesung vorgestellte Darstellung eines Gantt-Diagramms genutzt werden.
 
 Erstellen Sie hierfür einen individuellen Projektplan für Ihr anstehendes Praxissemester.
 
