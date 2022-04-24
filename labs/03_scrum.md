@@ -18,4 +18,3 @@ Erstellen Sie 5 User Stories nach der Schablone von Mike Cohn.
 - Achten Sie darauf, dass Sie ausschließlich die definierten Personas verwenden. 
 - Wälen Sie eine sinvolle und nachvollziehbare BEgründung bzw. MEhrwert für die jeweilige Story, die in Bezug zur jeweiligen Persona steht.
 - Die in den Stories geforderten Features sollen sich auf Ihren Wissenstand im Umgang mit ILIAS beziehen (legen Sie die von Ihnen genutzte Version von ILIAS zugrunde).
-  
