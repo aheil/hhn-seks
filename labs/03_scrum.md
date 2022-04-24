@@ -16,5 +16,7 @@ Nutzen Sie  bereitgestllten Vorlagen für Personas aus der Vorlesung.
 Erstellen Sie 5 User Stories nach der Schablone von Mike Cohn.
 - Es muss zu jeder zuvor erstellen Persona mind. eine User Storie geben.
 - Achten Sie darauf, dass Sie ausschließlich die definierten Personas verwenden. 
-- Wälen Sie eine sinvolle und nachvollziehbare BEgründung bzw. MEhrwert für die jeweilige Story, die in Bezug zur jeweiligen Persona steht.
+- Wälen Sie eine sinvolle und nachvollziehbare BEgründung bzw. Mehrwert für die jeweilige Story, die in Bezug zur jeweiligen Persona steht.
 - Die in den Stories geforderten Features sollen sich auf Ihren Wissenstand im Umgang mit ILIAS beziehen (legen Sie die von Ihnen genutzte Version von ILIAS zugrunde).
+- Führen Sie zu jeder User Story mind. 3 Akzeptanzkriterien auf, die bei einer Abnahme der User Story durch den Product Owner geprüft werdne können (und durch das Team vorgestellt werden können). 
+- Für jede Story beschreiben Sie die Achten Sie darauf, dass jede Story dem INVEST Prinzip entspricht. 
