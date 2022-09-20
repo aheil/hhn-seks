@@ -12,32 +12,26 @@ Dies ist das Repository der Kursinformationen. Diese Seiten sind als [interaktiv
 
 Dieser Kurs ist ein Pflichtfach im Hauptstudium Studiengang Software Engineering Bachelor (262062). 
 
-### Dozent 
+**Dozent**  
 Prof. Andreas Heil
 
-### Kursnummer 
-
+**Kursnummer**  
 262062 (SEB/SPO4)
 
-### Level
-
+**Level**  
 Hauptstudium Bachelor (SEB)
 
-### Semesterwochenstunden / ECTS 
-
+**Semesterwochenstunden/ECTS**
 2/3
 
-### Workload
+**Workload**
+- 30h Kontaktstunden / 90h Selbststudium (SEB)
+- 60h Kontaktstunden / 60h Selbststudium (AIB)
 
-30h Kontaktstunden / 90h Selbststudium (SEB)
-60h Kontaktstunden / 60h Selbststudium (AIB)
+**Lizenz**
+Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/). 
 
-### Lizenz 
-
-Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer
- [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/). 
-
- ## Kalender 
+## Kalender 
 
 | Einheit # | Datum | Thema |
 | --- | --- | --- |
@@ -61,57 +55,34 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer
 
 ## Syllabus
 
-### Kurszeiten
+- Kurszeiten
+Vorlesung: 1 Vorlesungseinheit / Woche, 90 Min. / Einheit (SEB)
 
-Vorlesung: 1 Vorlesungseinheit / Woche, 90 Min. / Einheit (SEB)  
-2 Vorlesungseinheiten / Woche, 90 Min. / Einheit (AIB)
+- Voraussetzungen (SEB):
+    - G5 Grundlagen des Software Engineering 1
+    - G5 Grundlagen des Software Engineering 2
 
-### Voraussetzungen (SEB)
+- Beschreibung 
+  Die Student:innen können erklären, mit welchen Arten technischer und organisatorischer Komplexität das Software Engineering konfrontiert ist. Lösungsstrategien sollen skizziert und wiedergegeben werden können. Einen wichtigen Anteil nehmen anwendungsorientierte und programmiertechnische Möglichkeiten zum Umgang mit komplexen Programmsystemen ein. Student:innen können Programme entsprechend entwerfen und die vermittelten Techniken anwenden. Darüber hinaus sollen die Student:innen ein Verständnis über organisatorische Prozesse entwickeln, die im Sinne einer systemischen Sichtweise den Softwareprozess in vielfältigen Dimensionen versuchen abzubilden und gerecht zu werden.
 
-Folgende Vorlesungen sollten Sie erfolgreich besucht haben:
-
-* G5 Grundlagen des Software Engineering 1
-* G5 Grundlagen des Software Engineering 2
-
-### Beschreibung 
-
-Die Student*innen können erklären, mit welchen Arten technischer
-und organisatorischer Komplexität das Software Engineering
-konfrontiert ist. Lösungsstrategien sollen skizziert und
-wiedergegeben werden können. Einen wichtigen Anteil nehmen
-anwendungsorientierte und programmiertechnische Möglichkeiten
-zum Umgang mit komplexen Programmsystemen ein. Student*innen
-können Programme entsprechend entwerfen und die vermittelten
-Techniken anwenden. Darüber hinaus sollen die Student*innen
-ein Verständnis über organisatorische Prozesse entwickeln, die
-im Sinne einer systemischen Sichtweise den Softwareprozess in
-vielfältigen Dimensionen versuchen abzubilden und gerecht zu
-werden.
-
-Themen, die in der Vorlesung behandelt werden (wird bei Bedarf angepasst):
-
-* Komplexität allgemein und in der Software-Entwicklung im
+- Themen, die in der Vorlesung behandelt werden (wird bei Bedarf angepasst):
+    - Komplexität allgemein und in der Software-Entwicklung im
 speziellen
-* Zusammenhang zwischen technischer und organisatorischer
+    - Zusammenhang zwischen technischer und organisatorischer
 Komplexität in der Software-Entwicklung
-* Maßnahmen zur Besprechung der Komplexität, z.B.
-* Vorgehensmodelle, insbesondere Scrum
-* Projektmanagement klassisch und agil
-* Anforderungsanalyse klassisch und agil
-* Software-Architektur
-* Software-Metriken, z.B. McCabe-Metrik
-* Testebenen und Testmanagement
-* Code-Coverage-Maße bei Unittests
+    - Maßnahmen zur Besprechung der Komplexität, z.B.
+    - Vorgehensmodelle, insbesondere Scrum
+    - Projektmanagement klassisch und agil
+    - Anforderungsanalyse klassisch und agil
+    - Software-Architektur
+    - Software-Metriken, z.B. McCabe-Metrik
+    - Testebenen und Testmanagement
+    - Code-Coverage-Maße bei Unittests
 
-### Vorlesungen 
-
-Jede Vorlesung behandelt ein spezielles Thema. Teilweise werden Aufgabenstellungen bereitgestellt, die via ILIAS einzureichen sind.
-
-Dies beinhaltet 
-
-* Antworten zu den Hausaufgaben 
-* Eigene Fragen zum Thema (es wird *versucht* diese zu beantworten)
-
+- Vorlesungen 
+    - Jede Vorlesung behandelt ein spezielles Thema. Teilweise werden Aufgabenstellungen bereitgestellt, die via ILIAS einzureichen sind. Dies beinhaltet 
+        - Antworten zu den Hausaufgaben 
+        - Eigene Fragen zum Thema (es wird *versucht* diese zu beantworten)
 Die Fragen werden im Kurs diskutiert. Fragen und Unterbrechungen sind willkommen. Ebenso Hinweise auf Fehler und Verbesserungsvorschläge. 
 
 ### Klausur
