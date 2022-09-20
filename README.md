@@ -12,13 +12,13 @@ Dies ist das Repository der Kursinformationen. Diese Seiten sind als [interaktiv
 
 Dieser Kurs ist ein Pflichtfach im Hauptstudium Studiengang Software Engineering Bachelor (262062). 
 
-**Dozent**  
+**Dozent**\
 Prof. Andreas Heil
 
-**Kursnummer**  
+**Kursnummer**:
 262062 (SEB/SPO4)
 
-**Level**  
+**Level:**
 Hauptstudium Bachelor (SEB)
 
 **Semesterwochenstunden/ECTS**
