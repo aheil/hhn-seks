@@ -69,8 +69,8 @@ Vorlesung: 1 Vorlesungseinheit / Woche, 90 Min. / Einheit (SEB)
 
 Folgende Veranstaltungen sollten erfolgreich bestanden sein: 
 
-    - G5 Grundlagen des Software Engineering 1
-    - G5 Grundlagen des Software Engineering 2
+- G5 Grundlagen des Software Engineering 1
+- G5 Grundlagen des Software Engineering 2
 
 **Beschreibung**
 
@@ -113,8 +113,8 @@ Die Note ergibt sich aus insgesamt 100 Punkten:
 
 | Aktivitäten | Anteil an der Note |
 | --- | --- | 
-| Hausaufgaben | 20% |
-| Kurzreferat | 30% |
+| Hausaufgaben | 20 % |
+| Kurzreferat | 30 % |
 | Klausur | 50 % | 
 
 Zum Bestehen des Kurses ist es erforderlich die Klausur zu bestehen. Das Bestehen der Klausur impliziert nicht das Bestehen des Kurses, wenn die Abgaben nicht ausreichend bearbeitet wurden.
