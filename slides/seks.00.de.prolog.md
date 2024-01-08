@@ -21,7 +21,7 @@ Prof. Dr.-Ing. Andreas Heil
 
 ![h:32 CC 4.0](../img/cc.svg)![h:32 CC 4.0](../img/by.svg) Dieses Werk ist lizensiert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
 
-v.1.1.0
+v.1.2.0
 
 ---
 
@@ -30,7 +30,7 @@ v.1.1.0
 Die Veranstaltung im Curriculum, Voraussetzung und Ziele bzw.
 Kompetenzen
 
-* Vorlesungsorganisation, Arbeitsform und Online
+* Vorlesungsorganisation, Arbeitsform und Online-Material
 * Personen und Ressourcen
 * Fragen
 
@@ -52,8 +52,8 @@ Kompetenzen
 
 # Voraussetzungen (SEB)
 
-* G5.1 262005 Grundlagen des Software Engineering 1✔
-* G5.2 262006 Grundlagen des Software Engineering 2✔
+* G5.1 262005 Grundlagen des Software Engineering 1 
+* G5.2 262006 Grundlagen des Software Engineering 2 
 
 ---
 
@@ -75,7 +75,7 @@ Quicklink: [https://prof.aheil.de](https://prof.aheil.de)
 ![rt_float](../img/seks.00.aheil.de.png) 
 
 ## Vorlesung SEKS
-Kursseite und Lernmaterialien: [https://www.hs-heilbronn.de/seks](https://www.hs-heilbronn.de/seks)
+Kursseite und Lernmaterialien: [https://aheil.de/seks/](https://aheil.de/seks/)
 ILIAS für Abgaben: [https://ilias.hs-heilbronn.de/goto.php?target=crs_360741](https://ilias.hs-heilbronn.de/goto.php?target=crs_360741) 
 
 ---
@@ -94,7 +94,7 @@ ILIAS für Abgaben: [https://ilias.hs-heilbronn.de/goto.php?target=crs_360741](h
 
 # Übungsaufgaben 
 
-* Es gibt mehrere Übungsaufgaben, die Sie in Gruppen (2-3 Student*innen)bearbeiten
+* Es gibt mehrere Übungsaufgaben, die Sie in Gruppen (~4 Student:innen) bearbeiten
 * Abgabe via ILIAS
 * Zu späte Abgaben werden mit 0 Punkten bewertet 
 * Abgaben per Mail werden mit 0 Punkten bewertet
@@ -103,9 +103,9 @@ ILIAS für Abgaben: [https://ilias.hs-heilbronn.de/goto.php?target=crs_360741](h
 
 # Kurzreferat 
 
-* Sie erarbeiten in Ihrer Gruppe (2-3 Student*innen) ein Thema 
-* Sie stellen das Thema vor
-* Abgabe: In den letzten Vorlesungsversuchen, genauer Termin wird nach der Klausurphase im Mai bekannt gegeben
+* Sie erarbeiten in Ihrer Gruppe (~4 Student:innen) ein Thema 
+* Sie stellen das Thema in Firm eines Videos vor
+* Abgabe: In den letzten beiden Vorlesungsversuchen, genauer Termin wird noch bekannt gegeben
 
 ---
 
@@ -118,15 +118,14 @@ ILIAS für Abgaben: [https://ilias.hs-heilbronn.de/goto.php?target=crs_360741](h
 
 ---
 
-# Veranstaltung WiSe 21
+# Veranstaltung WiSe 22
 
 * Veranstaltung 
     * Montags 14:00 bis 15:30 
-    * Raum A212        
+    * Raum A211        
     * Sollte aufgrund geltender Regelungen ein Wechsel in den Online-Betrieb erforderlich sein:
         * BBB: https://bbb.it.hs-heilbronn.de/b/and-pxc-zoq-mxc
-* Sprechstunde WisSe 21
-    * Dienstags 09:45 bis 11:15 Uhr         
+* Sprechstunde     
     * Derzeit noch online via BBB, https://prof.aheil.de/bbb 
     * Bitte nutzen Sie die Buchungsfunktion in ILIAS 
 

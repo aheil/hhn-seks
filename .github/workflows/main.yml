@@ -14,10 +14,10 @@ jobs:
     steps:
 
       # Checks-out your repository under $GITHUB_WORKSPACE
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2.5.0
 
       - name: Run marp-action setup
         id: marp-action
-        uses: aheil/marp-action@v1.0.0
+        uses: aheil/marp-action@v1.1.0-beta
         with:
           src-dir: 'slides'
