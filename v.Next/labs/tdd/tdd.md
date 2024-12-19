@@ -43,7 +43,7 @@ Rot --> Grün --> Refactoring --> Rot
 ### Vorteile von TDD
 
 - Unit Test liefern fortwährend Feedback über den Code 
-- Design des Codes verbessert sich (Prinzip: Design for Tetability)
+- Design des Codes verbessert sich (Prinzip: Design for Testability)
 - TDD stellt sicher, dass Code getestet ist (Codeabdeckung)
 - TDD stellt sicher, dass die Anforderungen erfüllt werden und hilft Feature Creep zu vermeiden
 - TDD hat sehr kurze Entwicklungszyklen, weniger Code der getestet wird führt zu einer einfacheren Fehlersuche.
